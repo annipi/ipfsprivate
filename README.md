@@ -60,3 +60,6 @@ Colecciones:
   - Healthcheck -> Comprobación de conectividad con la red IPFS
 - Node Configuration
   - Get Node Configuration -> Obtención de la configuración del Nodo
+
+
+Vivelab/ipfsprivate
